@@ -1,0 +1,7 @@
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\bin\Debug\IsletimSistemleri.exe.config
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\bin\Debug\IsletimSistemleri.exe
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\bin\Debug\IsletimSistemleri.pdb
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\obj\Debug\IsletimSistemleri.csproj.AssemblyReference.cache
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\obj\Debug\IsletimSistemleri.csproj.CoreCompileInputs.cache
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\obj\Debug\IsletimSistemleri.exe
+C:\Users\iirem\source\repos\IsletimSistemleri\IsletimSistemleri\obj\Debug\IsletimSistemleri.pdb
